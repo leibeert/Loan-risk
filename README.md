@@ -2,13 +2,7 @@
 
 
 
-## Description
 
-This Python script processes text files by performing the following tasks:
-1. **Remove non-printable characters**: Filters out any characters that are not printable.
-2. **Concatenate lines**: Merges all lines in the file into a single continuous text.
-3. **Remove duplicates**: Ensures that there are no duplicate characters in the final result.
-4. **Sort the characters**: Sorts the remaining characters alphabetically.
 
 ## How to Use
 
